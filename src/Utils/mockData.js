@@ -1,7 +1,7 @@
 const resList = [
     {
       "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "41297",
         "name": "KFC",
         "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/76795500-8115-430e-8634-fa86dc2be090_41297.JPG",
@@ -88,7 +88,7 @@ const resList = [
     },
     {
     "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "253545",
         "name": "The Chocolate Room",
         "cloudinaryImageId": "fco6bt4rjqr7hztnqwxo",
@@ -193,7 +193,7 @@ const resList = [
     },
     {
      "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "254108",
         "name": "McDonald's",
         "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/22/d881ae84-527b-4d39-a3d0-fb0496b82b6f_254108.JPG",
@@ -303,7 +303,7 @@ const resList = [
     },
     {
       "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "42240",
         "name": "Domino's Pizza",
         "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/22/05203e69-49b5-4ba8-984a-a5a032f186c7_42240.jpg",
@@ -415,7 +415,7 @@ const resList = [
     },
     {
      "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "616715",
         "name": "Great Indian Khichdi by EatFit",
         "cloudinaryImageId": "6e44fd7f1e5cd9967edfe47c10247671",
@@ -517,7 +517,7 @@ const resList = [
     },
     {
      "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "555174",
         "name": "Uttam Sweets Bakery & Restaurant",
         "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/27/863202cb-4195-46d1-b916-65a81072122b_555174.jpg",
@@ -616,7 +616,7 @@ const resList = [
     },
     {
       "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "106055",
         "name": "La Pino'z Pizza",
         "cloudinaryImageId": "fco6bt4rjqr7hztnqwxo",
@@ -725,7 +725,7 @@ const resList = [
     },
     {
       "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "75621",
         "name": "Uncle Jack's",
         "cloudinaryImageId": "wca5ghvv8tljijifs9nn",
@@ -809,7 +809,7 @@ const resList = [
     },
     {
       "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "164613",
         "name": "El Mexicano",
         "cloudinaryImageId": "yc37c1fbmghsz2u9wzmt",
@@ -896,7 +896,7 @@ const resList = [
     },
     {
       "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "702966",
         "name": "Theobroma",
         "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/14/b96a2341-ce00-4ad1-ae79-79e2567925fa_702966.JPG",
@@ -996,7 +996,7 @@ const resList = [
     },
     {
       "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "221313",
         "name": "LunchBox - Meals and Thalis",
         "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/16/d1380fd2-f508-4652-8e59-2566861a2b6a_221313.jpg",
@@ -1101,7 +1101,7 @@ const resList = [
     },
     {
       "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "221306",
         "name": "Faasos - Wraps, Rolls & Shawarma",
         "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/28/915d2283-44f3-49ef-8acd-7f8c87dc10b2_221306.JPG",
@@ -1190,7 +1190,7 @@ const resList = [
     },
     {
       "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "40616",
         "name": "Gopal's",
         "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/7/cac4757e-d3c6-4a63-a2d5-8fae881d5efb_40616.jpg",
@@ -1354,7 +1354,7 @@ const resList = [
     },
     {
       "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "41459",
         "name": "Super Donuts - American Eatery & Bakery",
         "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/9/273432d0-5544-4a48-84c5-e21fb9d14341_41459.jpg",
@@ -1439,7 +1439,7 @@ const resList = [
     },
     {
       "type": "restaurent",
-      "Data": {
+      "data": {
         "id": "435686",
         "name": "Pizza Hut",
         "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/6b7a8af7-6d1e-4c6e-92a8-aa8577c57535_435686.jpg",
@@ -1525,7 +1525,7 @@ const resList = [
     },
     {
       "type": "Restaurent",
-      "Data": {
+      "data": {
         "id": "639421",
         "name": "Dum Safar Biryani",
         "cloudinaryImageId": "1154cffac2453eb0bf7fdda7e5ea1659",
@@ -1611,6 +1611,9 @@ const resList = [
         "type": "WEBLINK"
       }
     }
-  ];
+];
+
+
 
   export default resList;
+
